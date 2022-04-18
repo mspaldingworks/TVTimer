@@ -1,4 +1,4 @@
-package com.mad.e.tvcounter
+/*package com.mad.e.tvcounter
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -150,3 +150,4 @@ fun Timer(
         }
     }
 }
+*/
